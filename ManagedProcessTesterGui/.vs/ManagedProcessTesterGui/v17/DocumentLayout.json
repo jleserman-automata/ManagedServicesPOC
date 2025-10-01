@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA06D1-A19E-4C5B-A9A1-C1BD766A56CE}|ManagedProcessTesterGui\\ManagedProcessTesterGui.csproj|c:\\mac\\home\\documents\\github\\managedservicespoc\\managedprocesstestergui\\managedprocesstestergui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA06D1-A19E-4C5B-A9A1-C1BD766A56CE}|ManagedProcessTesterGui\\ManagedProcessTesterGui.csproj|solutionrelative:managedprocesstestergui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA06D1-A19E-4C5B-A9A1-C1BD766A56CE}|ManagedProcessTesterGui\\ManagedProcessTesterGui.csproj|C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\managedprocesstestergui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8FA06D1-A19E-4C5B-A9A1-C1BD766A56CE}|ManagedProcessTesterGui\\ManagedProcessTesterGui.csproj|solutionrelative:managedprocesstestergui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA06D1-A19E-4C5B-A9A1-C1BD766A56CE}|ManagedProcessTesterGui\\ManagedProcessTesterGui.csproj|C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\managedprocesstestergui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8FA06D1-A19E-4C5B-A9A1-C1BD766A56CE}|ManagedProcessTesterGui\\ManagedProcessTesterGui.csproj|solutionrelative:managedprocesstestergui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA06D1-A19E-4C5B-A9A1-C1BD766A56CE}|ManagedProcessTesterGui\\ManagedProcessTesterGui.csproj|C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\managedprocesstestergui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA06D1-A19E-4C5B-A9A1-C1BD766A56CE}|ManagedProcessTesterGui\\ManagedProcessTesterGui.csproj|solutionrelative:managedprocesstestergui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA06D1-A19E-4C5B-A9A1-C1BD766A56CE}|ManagedProcessTesterGui\\ManagedProcessTesterGui.csproj|C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\managedprocesstestergui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A8FA06D1-A19E-4C5B-A9A1-C1BD766A56CE}|ManagedProcessTesterGui\\ManagedProcessTesterGui.csproj|solutionrelative:managedprocesstestergui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 561,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\ManagedProcessTesterGui\\App.config",
+              "RelativeDocumentMoniker": "ManagedProcessTesterGui\\App.config",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\ManagedProcessTesterGui\\App.config",
+              "RelativeToolTip": "ManagedProcessTesterGui\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-01T14:47:09.591Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\ManagedProcessTesterGui\\App.xaml",
+              "RelativeDocumentMoniker": "ManagedProcessTesterGui\\App.xaml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\ManagedProcessTesterGui\\App.xaml",
+              "RelativeToolTip": "ManagedProcessTesterGui\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T14:47:03.729Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\ManagedProcessTesterGui\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ManagedProcessTesterGui\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\ManagedProcessTesterGui\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ManagedProcessTesterGui\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAQAAAMAtwMkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T13:39:05.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\ManagedProcessTesterGui\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ManagedProcessTesterGui\\MainWindow.xaml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\ManagedProcessTesterGui\\MainWindow.xaml",
+              "RelativeToolTip": "ManagedProcessTesterGui\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T18:40:14.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\ManagedProcessTesterGui\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ManagedProcessTesterGui\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\ManagedServicesPOC\\ManagedProcessTesterGui\\ManagedProcessTesterGui\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ManagedProcessTesterGui\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:48:49.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

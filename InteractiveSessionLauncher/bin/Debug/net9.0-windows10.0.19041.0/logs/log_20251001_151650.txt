@@ -1,0 +1,5 @@
+﻿[2025-10-01 15:16:50.603] OogaBooga
+[2025-10-01 15:16:52.136] InteractiveLaunchWorker starting...
+[2025-10-01 15:16:52.140] InteractiveLauncher starting. TCP:True Pipe:True on 127.0.0.1:49321
+[2025-10-01 15:16:52.141] Pipe listening on \\.\pipe\Automation.InteractiveLauncher.v1
+[2025-10-01 15:16:52.146] TCP listening on 127.0.0.1:49321

@@ -1,0 +1,38 @@
+Log started at 2025-10-01 15:16:50
+WORKER: [2025-10-01 15:16:50.603] OogaBooga
+WORKER: [2025-10-01 15:16:52.136] InteractiveLaunchWorker starting...
+WORKER: [2025-10-01 15:16:52.140] InteractiveLauncher starting. TCP:True Pipe:True on 127.0.0.1:49321
+WORKER: [2025-10-01 15:16:52.141] Pipe listening on \\.\pipe\Automation.InteractiveLauncher.v1
+WORKER: [2025-10-01 15:16:52.146] TCP listening on 127.0.0.1:49321
+Launching C:\Windows\System32\cmd.exe with args ping google.com & timeout /t 10
+WORKER: TCP Client Triggered
+Launching C:\Windows\System32\cmd.exe with args ping google.com & timeout /t 10
+WORKER: TCP Client Triggered
+Launching C:\Windows\System32\cmd.exe with args ping google.com & timeout /t 10
+WORKER: TCP Client Triggered
+Response: {"ok":true,"pid":3828}
+Response: {"ok":true,"pid":19208}
+Response: {"ok":true,"pid":10488}
+WORKER: {"ok":true,"pid":3828}
+WORKER: {"ok":true,"pid":19208}
+WORKER: {"ok":true,"pid":10488}
+Launching C:\Windows\System32\cmd.exe with args ping google.com & timeout /t 10
+WORKER: TCP Client Triggered
+Response: {"ok":true,"pid":2120}
+WORKER: {"ok":true,"pid":2120}
+Launching C:\Windows\System32\cmd.exe with args ping google.com & timeout /t 10
+WORKER: TCP Client Triggered
+Response: {"ok":true,"pid":10444}
+WORKER: {"ok":true,"pid":10444}
+Launching C:\Windows\System32\cmd.exe with args ping google.com & timeout /t 10
+WORKER: TCP Client Triggered
+Response: {"ok":true,"pid":17292}
+WORKER: {"ok":true,"pid":17292}
+Launching C:\Windows\System32\cmd.exe with args ping google.com & timeout /t 10
+WORKER: TCP Client Triggered
+Response: {"ok":true,"pid":6636}
+WORKER: {"ok":true,"pid":6636}
+Launching C:\Windows\System32\cmd.exe with args ping google.com & timeout /t 10
+WORKER: TCP Client Triggered
+Response: {"ok":true,"pid":17476}
+WORKER: {"ok":true,"pid":17476}

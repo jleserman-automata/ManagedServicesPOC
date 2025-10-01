@@ -1,0 +1,6 @@
+Log started at 2025-10-01 15:13:25
+WORKER: [2025-10-01 15:13:26.090] OogaBooga
+WORKER: [2025-10-01 15:13:28.130] InteractiveLaunchWorker starting...
+WORKER: [2025-10-01 15:13:28.134] InteractiveLauncher starting. TCP:True Pipe:True on 127.0.0.1:49321
+WORKER: [2025-10-01 15:13:28.137] Pipe listening on \\.\pipe\Automation.InteractiveLauncher.v1
+WORKER: [2025-10-01 15:13:28.149] TCP listening on 127.0.0.1:49321

@@ -1,0 +1,4 @@
+﻿[2025-10-01 13:39:08.089] InteractiveLaunchWorker starting...
+[2025-10-01 13:39:10.134] InteractiveLauncher starting. TCP:True Pipe:True on 127.0.0.1:49321
+[2025-10-01 13:39:12.167] Pipe listening on \\.\pipe\Automation.InteractiveLauncher.v1
+[2025-10-01 13:39:14.196] TCP listening on 127.0.0.1:49321

@@ -1,0 +1,5 @@
+[2025-10-01 11:48:28.880] System.IO.IOException: The parameter is incorrect.
+   at System.IO.Pipes.NamedPipeServerStream.Create(String pipeName, PipeDirection direction, Int32 maxNumberOfServerInstances, PipeTransmissionMode transmissionMode, PipeOptions options, Int32 inBufferSize, Int32 outBufferSize, PipeSecurity pipeSecurity, HandleInheritability inheritability, PipeAccessRights additionalAccessRights)
+   at System.IO.Pipes.NamedPipeServerStreamAcl.Create(String pipeName, PipeDirection direction, Int32 maxNumberOfServerInstances, PipeTransmissionMode transmissionMode, PipeOptions options, Int32 inBufferSize, Int32 outBufferSize, PipeSecurity pipeSecurity, HandleInheritability inheritability, PipeAccessRights additionalAccessRights)
+   at InteractiveLaunchWorker.CreateSecuredPipe() in C:\Mac\Home\Documents\GitHub\orchestra\src\Utils\InteractiveSessionLauncher\InteractiveLaunchWorker.cs:line 220
+   at InteractiveLaunchWorker.RunPipeServerLoopAsync(CancellationToken ct) in C:\Mac\Home\Documents\GitHub\orchestra\src\Utils\InteractiveSessionLauncher\InteractiveLaunchWorker.cs:line 196 Pipe server loop error.
